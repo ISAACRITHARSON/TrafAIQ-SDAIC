@@ -48,7 +48,7 @@ Create a `.env` file and add:
 OPENAI_API_KEY=your-openai-key
 ```
 
-Agents (implemented): 
+### Agents (implemented): 
 1. Anlysise traffic congestion Agent
 2. Suggest traffic lights Agent
 3. Rush hour classification Agent (based on time and count) 
