@@ -2,7 +2,14 @@
 # 🚦 TrafAIQ: Multi-Agent AI-Powered Smart Traffic Management System
 
 **TrafAIQ** is a multi-agent traffic optimization system that leverages AI-powered agents, live traffic data, and real-time analytics to reduce congestion, improve emergency response times, and enhance urban mobility. It uses **V2I (Vehicle-to-Infrastructure)** communication and **large language models (LLMs)** to dynamically manage traffic signals, reroute vehicles, and adjust toll pricing.
+---
+### Agents (Implementation): 
 
+1. Anlysising traffic congestion Agent -> Calculates density of live traffic
+2. Suggest traffic lights Agent ->controls traffic lights (Red, Orange/yellow, green)
+3. Rush hour classification Agent (based on time and count) -> classifies the severity of traffic based on density (count, vehicle type)
+4. Rerouting Agent -> Suggests/ Recommends Alternative paths
+5. Dynamic toll adjuster Agent -> Dynamically adjusts tolls based on traffic levels in that location
 ---
 
 ![TrafAIQ Workflow](Workflow.png)
@@ -16,15 +23,6 @@
 - **Emergency Vehicle Prioritization** through adaptive signal control
 - **Interactive Visualizations** with traffic maps, vehicle distribution charts, and congestion analysis
 - **Modular Streamlit App UI** with plug-and-play capabilities for new agents
-
----
-### Agents (Implementation): 
-
-1. Anlysising traffic congestion Agent -> Calculates density of live traffic
-2. Suggest traffic lights Agent ->controls traffic lights (Red, Orange/yellow, green)
-3. Rush hour classification Agent (based on time and count) -> classifies the severity of traffic based on density (count, vehicle type)
-4. Rerouting Agent -> Suggests/ Recommends Alternative paths
-5. Dynamic toll adjuster Agent -> Dynamically adjusts tolls based on traffic levels in that location
 
 ---
 ## 📊 Tech Stack
