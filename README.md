@@ -29,7 +29,7 @@
 
 - **Frontend/UI**: Streamlit
 - **Visualization**: PyDeck, Plotly
-- **AI/ML**: OpenAI GPT (LLMs), Rule-Based Logic
+- **AI/ML**: OpenAI GPT- 4o (LLMs), Rule-Based Logic
 - **Backend**: Python
 - **Data**: Custom or real-time CSVs from traffic sensors, drones, or city datasets
 
