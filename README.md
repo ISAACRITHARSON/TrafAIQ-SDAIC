@@ -47,14 +47,13 @@ Create a `.env` file and add:
 ```env
 OPENAI_API_KEY=your-openai-key
 ```
-
+![dashboard](TrafAIQ.png)
 ### 4. Run the App
 ```bash
 streamlit run smart_traffic_app.py
 ```
 
 ---
-![TrafAIQ](TrafAIQ.png)
 ![dashboard](dashboard.png)
 ![dashboard](InteractiveGIS.png)
 ## 📂 Folder Structure
