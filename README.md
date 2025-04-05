@@ -22,7 +22,7 @@
 
 1. Anlysising traffic congestion Agent -> Calculates density of live traffic
 2. Suggest traffic lights Agent ->controls traffic lights (Red, Orange/yellow, green)
-3. Rush hour classification Agent (based on time and count) -> classifies the severity of traffic based on density
+3. Rush hour classification Agent (based on time and count) -> classifies the severity of traffic based on density (count, vehicle type)
 4. Rerouting Agent -> Suggests/ Recommends Alternative paths
 5. Dynamic toll adjuster Agent -> Dynamically adjusts tolls based on traffic levels in that location
 
