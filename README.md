@@ -18,7 +18,15 @@
 - **Modular Streamlit App UI** with plug-and-play capabilities for new agents
 
 ---
+### Agents (Implementation Goals): 
 
+1. Anlysising traffic congestion Agent -> Calculates density of traffic
+2. Suggest traffic lights Agent ->controls traffic lights (Red, Orange/yellow, green)
+3. Rush hour classification Agent (based on time and count) -> classifies the severity of traffic based on density
+4. Rerouting Agent -> Suggests/ Recommends Alternative paths
+5. Dynamic toll adjuster Agent -> Dynamically adjusts tolls based on traffic levels in that location
+
+---
 ## 📊 Tech Stack
 
 - **Frontend/UI**: Streamlit
@@ -47,15 +55,6 @@ Create a `.env` file and add:
 ```env
 OPENAI_API_KEY=your-openai-key
 ```
-
-### Agents (implemented): 
-1. Anlysising traffic congestion Agent -> Calculates density of traffic
-2. Suggest traffic lights Agent ->controls traffic lights (Red, Orange/yellow, green)
-3. Rush hour classification Agent (based on time and count) -> classifies the severity of traffic based on density
-4. Rerouting Agent -> Suggests/ Recommends Alternative paths
-5. Dynamic toll adjuster Agent -> Dynamically adjusts tolls based on traffic levels in that location
-
-
 ![dashboard](TrafAIQ1.png)
 ### 4. Run the App
 ```bash
