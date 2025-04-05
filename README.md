@@ -64,6 +64,7 @@ streamlit run smart_traffic_app.py
 
 ---
 ![dashboard](dashboard.png)
+
 ![dashboard](InteractiveGIS.png)
 ## 📂 Folder Structure
 ```text
