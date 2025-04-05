@@ -47,6 +47,15 @@ Create a `.env` file and add:
 ```env
 OPENAI_API_KEY=your-openai-key
 ```
+
+Agents (implemented): 
+1. Anlysise traffic congestion Agent
+2. Suggest traffic lights Agent
+3. Rush hour classification Agent (based on time and count) 
+4. Rerouting Agent
+5. Dynamic toll adjuster Agent 
+
+
 ![dashboard](TrafAIQ1.png)
 ### 4. Run the App
 ```bash
