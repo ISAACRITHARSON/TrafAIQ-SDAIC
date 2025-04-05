@@ -11,8 +11,6 @@
 4. Rerouting Agent -> Suggests/ Recommends Alternative paths
 5. Dynamic toll adjuster Agent -> Dynamically adjusts tolls based on traffic levels in that location
 ---
-### Streamlit interface:
-
 ![TrafAIQ Workflow](Workflow.png)
 
 ## 🧠 Features
@@ -54,6 +52,7 @@ Create a `.env` file and add:
 ```env
 OPENAI_API_KEY=your-openai-key
 ```
+### Streamlit interface:
 ![dashboard](TrafAIQ1.png)
 ### 4. Run the App
 ```bash
