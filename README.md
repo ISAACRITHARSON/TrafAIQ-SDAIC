@@ -18,9 +18,9 @@
 - **Modular Streamlit App UI** with plug-and-play capabilities for new agents
 
 ---
-### Agents (Implementation Goals): 
+### Agents (Implementation): 
 
-1. Anlysising traffic congestion Agent -> Calculates density of traffic
+1. Anlysising traffic congestion Agent -> Calculates density of live traffic
 2. Suggest traffic lights Agent ->controls traffic lights (Red, Orange/yellow, green)
 3. Rush hour classification Agent (based on time and count) -> classifies the severity of traffic based on density
 4. Rerouting Agent -> Suggests/ Recommends Alternative paths
