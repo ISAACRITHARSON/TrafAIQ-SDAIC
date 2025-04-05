@@ -6,7 +6,6 @@
 ---
 
 ![TrafAIQ Workflow](Workflow.png)
-![dashboard](dashboard.png)
 
 ## 🧠 Features
 
@@ -56,6 +55,7 @@ streamlit run smart_traffic_app.py
 
 ---
 ![TrafAIQ](TrafAIQ.png)
+![dashboard](dashboard.png)
 ## 📂 Folder Structure
 ```text
 trafaiq/
