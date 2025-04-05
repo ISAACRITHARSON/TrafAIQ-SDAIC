@@ -56,6 +56,7 @@ streamlit run smart_traffic_app.py
 ---
 ![TrafAIQ](TrafAIQ.png)
 ![dashboard](dashboard.png)
+![dashboard](InteractiveGIS.png)
 ## 📂 Folder Structure
 ```text
 trafaiq/
