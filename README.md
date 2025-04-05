@@ -1,7 +1,7 @@
 
 # 🚦 TrafAIQ: Multi-Agent AI-Powered Smart Traffic Management System
 
-**TrafAIQ** is a multi-agent traffic optimization system that leverages AI-powered agents, live traffic data, and real-time analytics to reduce congestion, improve emergency response times, and enhance urban mobility. It uses **V2I (Vehicle-to-Infrastructure)** communication to dynamically manage traffic signals, reroute vehicles, and adjust toll pricing.
+**TrafAIQ** is a multi-agent traffic optimization system that leverages AI-powered agent workflow, live traffic data, and real-time analytics to reduce congestion, improve emergency response times, and enhance urban mobility. It uses **V2I (Vehicle-to-Infrastructure)** communication to dynamically manage traffic signals, reroute vehicles, and adjust toll pricing.
 ---
 ### Agents (Implementation): 
 
