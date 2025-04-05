@@ -6,6 +6,7 @@
 ---
 
 ![TrafAIQ Workflow](Workflow.png)
+![dashboard](dashboard.png)
 
 ## 🧠 Features
 
