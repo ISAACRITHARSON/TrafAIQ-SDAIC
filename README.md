@@ -66,6 +66,7 @@ streamlit run smart_traffic_app.py
 
 ### Interactive Geospatial Analysis with Vehicle Count in each location
 ![dashboard](InteractiveGIS.png)
+### Location: Seattle, Washington
 ## 📂 Folder Structure
 ```text
 trafaiq/
