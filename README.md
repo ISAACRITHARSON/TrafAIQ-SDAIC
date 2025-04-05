@@ -49,11 +49,11 @@ OPENAI_API_KEY=your-openai-key
 ```
 
 ### Agents (implemented): 
-1. Anlysising traffic congestion Agent
-2. Suggest traffic lights Agent
-3. Rush hour classification Agent (based on time and count) 
-4. Rerouting Agent
-5. Dynamic toll adjuster Agent 
+1. Anlysising traffic congestion Agent -> Calculates density of traffic
+2. Suggest traffic lights Agent ->controls traffic lights (Red, Orange/yellow, green)
+3. Rush hour classification Agent (based on time and count) -> classifies the severity of traffic based on density
+4. Rerouting Agent -> Suggests/ Recommends Alternative paths
+5. Dynamic toll adjuster Agent -> Dynamically adjusts tolls based on traffic levels in that location
 
 
 ![dashboard](TrafAIQ1.png)
