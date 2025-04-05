@@ -1,18 +1,19 @@
+
 # 🚦 TrafAIQ: AI-Powered Smart Traffic Management System
 
-TrafAIQ is a multi-agent traffic optimization system that leverages AI-powered agents, live traffic data, and real-time analytics to reduce congestion, improve emergency response times, and enhance urban mobility. It uses V2I (Vehicle-to-Infrastructure) communication, reinforcement learning, and large language models (LLMs) to dynamically manage traffic signals, reroute vehicles, and adjust toll pricing.
+**TrafAIQ** is a multi-agent traffic optimization system that leverages AI-powered agents, live traffic data, and real-time analytics to reduce congestion, improve emergency response times, and enhance urban mobility. It uses **V2I (Vehicle-to-Infrastructure)** communication, reinforcement learning, and **large language models (LLMs)** to dynamically manage traffic signals, reroute vehicles, and adjust toll pricing.
 
 ---
 
 ## 🧠 Features
 
-- **Multi-Agent AI System** for traffic signals, routing, congestion detection, toll pricing, and drone monitoring.
-- **LLM-Powered Decision Making** to classify traffic levels, suggest optimal signals, and detect rush hours.
-- **Vehicle-to-Infrastructure (V2I) Communication** for smart, real-time traffic interactions.
-- **Dynamic Toll Adjustments** based on congestion severity and real-time conditions.
-- **Emergency Vehicle Prioritization** through adaptive signal control.
-- **Interactive Visualizations** with traffic maps, vehicle distribution charts, and congestion analysis.
-- **Modular Streamlit App UI** with plug-and-play capabilities for new agents.
+- **Multi-Agent AI System** for traffic signals, routing, congestion detection, toll pricing, and drone monitoring
+- **LLM-Powered Decision Making** to classify traffic levels, suggest optimal signals, and detect rush hours
+- **Vehicle-to-Infrastructure (V2I) Communication** for smart, real-time traffic interactions
+- **Dynamic Toll Adjustments** based on congestion severity and real-time conditions
+- **Emergency Vehicle Prioritization** through adaptive signal control
+- **Interactive Visualizations** with traffic maps, vehicle distribution charts, and congestion analysis
+- **Modular Streamlit App UI** with plug-and-play capabilities for new agents
 
 ---
 
@@ -41,7 +42,7 @@ pip install -r requirements.txt
 
 ### 3. Add Your OpenAI API Key
 Create a `.env` file and add:
-```
+```env
 OPENAI_API_KEY=your-openai-key
 ```
 
@@ -53,7 +54,7 @@ streamlit run smart_traffic_app.py
 ---
 
 ## 📂 Folder Structure
-```
+```text
 trafaiq/
 ├── smart_traffic_app.py     # Main Streamlit App
 ├── requirements.txt         # Dependencies
@@ -92,7 +93,7 @@ trafaiq/
 
 ## 👨‍💻 Author
 
-Made with ❤️ by Isaac Premkumar
+Made with ❤️ by [Your Name]  
 Let’s build smarter cities together.
 
 ---
@@ -100,4 +101,3 @@ Let’s build smarter cities together.
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
