@@ -93,7 +93,7 @@ trafaiq/
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [Your Name]  
+Made with ❤️ by ISAAC PREMKUMAR  
 Let’s build smarter cities together.
 
 ---
