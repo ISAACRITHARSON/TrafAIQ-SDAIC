@@ -1,0 +1,101 @@
+Vehicle_Type,Count,Latitude,Longitude,Time_of_Day,Traffic_Level,Accident,Road_Block,Suggested_Route,Toll_Price,Adjusted_Toll,Street_Name,Alternative_Route
+Car,12,85.8382935,-163.204008,08:00,Moderate,0,1,Route B,1.03,1.03,Beacon Ave S & S Spokane St,Elliott Ave via W Harrison St
+Bike,19,-89.0449525,-114.278016,18:30,Rush Hour,0,0,Route D,4.95,7.43,Beacon Ave S & S Spokane St,Roosevelt Way NE via NE 65th St
+Car,12,25.869146,71.611184,13:00,Moderate,0,0,Route A,1.02,1.02,I-5 & NE 130th St,Dexter Ave N via N 40th St
+Truck,25,-12.883411,151.293068,09:00,Rush Hour,0,0,Route A,3.96,5.94,Broadway & E Pine St,Elliott Ave via W Harrison St
+Bike,10,59.4479915,-102.610317,22:00,Moderate,0,0,Route C,3.52,3.52,Beacon Ave S & S Spokane St,I-5 via Olive Way
+Truck,14,-6.3577545,175.616176,13:00,Moderate,0,0,Route B,3.82,3.82,Rainier Ave S & S Genesee St,Dexter Ave N via N 40th St
+Car,3,-30.916472,98.091011,22:00,Light,1,1,Route A,5.67,5.67,Rainier Ave S & S Genesee St,Rainier Ave S via S Alaska St
+Bike,13,59.4479915,-102.610317,13:00,Moderate,1,1,Route D,4.75,4.75,Aurora Ave N & N 45th St,Aurora Ave via N 85th St
+Bus,17,72.077345,15.679642,18:00,Rush Hour,1,0,Route A,6.85,10.27,Broadway & E Pine St,Dexter Ave N via N 40th St
+LMV,16,-30.916472,98.091011,17:30,Rush Hour,0,0,Route D,1.68,2.52,15th Ave NW & NW Market St,Aurora Ave via N 85th St
+Bike,25,25.869146,71.611184,07:30,Rush Hour,0,0,Route B,5.49,8.23,I-5 & NE 130th St,Rainier Ave S via S Alaska St
+Car,10,-6.3577545,175.616176,12:00,Moderate,0,0,Route A,4.25,4.25,I-5 & NE 130th St,Beacon Ave via S Myrtle St
+Bike,23,25.869146,71.611184,08:00,Rush Hour,0,0,Route A,5.43,8.14,4th Ave & S Jackson St,4th Ave S via Airport Way
+Bike,17,25.519036,-22.106299,17:30,Rush Hour,0,1,Route C,2.81,4.21,Aurora Ave N & N 45th St,Broadway via E John St
+LMV,19,56.987443,-110.149838,17:30,Rush Hour,0,0,Route D,3.11,4.67,Beacon Ave S & S Spokane St,Aurora Ave via N 85th St
+LMV,24,-6.3577545,175.616176,17:30,Rush Hour,0,0,Route B,2.78,4.17,Beacon Ave S & S Spokane St,Aurora Ave via N 85th St
+Truck,23,-6.3577545,175.616176,18:30,Rush Hour,1,0,Route B,4.24,6.36,Aurora Ave N & N 45th St,15th Ave NW via NW 85th St
+Car,17,-64.683673,130.144935,18:30,Rush Hour,0,0,Route A,9.75,14.62,15th Ave NW & NW Market St,Beacon Ave via S Myrtle St
+Bus,9,56.484665,96.160107,22:00,Moderate,0,0,Route B,8.03,8.03,Beacon Ave S & S Spokane St,Dexter Ave N via N 40th St
+Bike,15,-89.0449525,-114.278016,17:00,Moderate,0,1,Route D,2.57,2.57,NE 45th St & Roosevelt Way NE,Roosevelt Way NE via NE 65th St
+Drone,14,56.987443,-110.149838,08:30,Moderate,0,0,Route A,7.65,7.65,Broadway & E Pine St,15th Ave NW via NW 85th St
+Truck,12,59.4479915,-102.610317,18:00,Moderate,0,0,Route A,8.03,8.03,Beacon Ave S & S Spokane St,15th Ave NW via NW 85th St
+Car,22,72.077345,15.679642,07:30,Rush Hour,0,0,Route B,4.44,6.66,NE 45th St & Roosevelt Way NE,Rainier Ave S via S Alaska St
+Drone,25,-41.8370785,119.159765,08:00,Rush Hour,0,0,Route A,7.88,11.82,I-5 & NE 130th St,I-5 via Olive Way
+Car,25,25.869146,71.611184,08:30,Rush Hour,0,0,Route B,4.24,6.36,Aurora Ave N & N 45th St,4th Ave S via Airport Way
+Bus,12,-41.8370785,119.159765,07:30,Moderate,0,1,Route B,5.03,5.03,Rainier Ave S & S Genesee St,Beacon Ave via S Myrtle St
+Car,21,-64.683673,130.144935,17:00,Rush Hour,0,0,Route D,5.1,7.65,Beacon Ave S & S Spokane St,Rainier Ave S via S Alaska St
+Car,25,85.8382935,-163.204008,17:00,Rush Hour,0,0,Route C,9.45,14.17,Aurora Ave N & N 45th St,Aurora Ave via N 85th St
+Bike,18,30.4490185,-120.636498,18:00,Rush Hour,0,0,Route D,4.77,7.15,Aurora Ave N & N 45th St,Rainier Ave S via S Alaska St
+Car,20,-12.883411,151.293068,18:00,Rush Hour,0,0,Route C,4.05,6.07,Rainier Ave S & S Genesee St,Dexter Ave N via N 40th St
+Bike,17,56.987443,-110.149838,17:30,Rush Hour,0,0,Route D,6.73,10.1,Beacon Ave S & S Spokane St,Dexter Ave N via N 40th St
+Bus,23,45.904054,-66.356341,18:30,Rush Hour,0,0,Route D,2.54,3.81,Rainier Ave S & S Genesee St,15th Ave NW via NW 85th St
+Car,24,-64.683673,130.144935,08:30,Rush Hour,1,0,Route B,3.73,5.59,Aurora Ave N & N 45th St,Beacon Ave via S Myrtle St
+Bike,12,30.4490185,-120.636498,17:30,Moderate,0,0,Route D,7.24,7.24,Aurora Ave N & N 45th St,Beacon Ave via S Myrtle St
+Car,25,-29.2004885,-7.828904,08:00,Rush Hour,0,0,Route B,3.63,5.45,I-5 & NE 130th St,Dexter Ave N via N 40th St
+Truck,5,-64.683673,130.144935,22:00,Light,0,0,Route D,1.43,1.43,Beacon Ave S & S Spokane St,Aurora Ave via N 85th St
+LMV,12,56.987443,-110.149838,18:30,Moderate,0,0,Route B,6.32,6.32,15th Ave NW & NW Market St,Broadway via E John St
+LMV,9,-12.883411,151.293068,12:00,Moderate,0,0,Route B,3.71,3.71,Dexter Ave N & Aloha St,Beacon Ave via S Myrtle St
+Car,24,56.484665,96.160107,17:30,Rush Hour,0,0,Route A,5.05,7.57,Elliott Ave W & W Mercer Pl,Beacon Ave via S Myrtle St
+Truck,15,25.519036,-22.106299,08:00,Moderate,0,0,Route C,9.87,9.87,Rainier Ave S & S Genesee St,Rainier Ave S via S Alaska St
+Bike,15,-29.2004885,-7.828904,17:30,Moderate,0,0,Route D,5.84,5.84,Elliott Ave W & W Mercer Pl,15th Ave NW via NW 85th St
+Bike,25,-89.0449525,-114.278016,18:00,Rush Hour,0,0,Route B,8.9,13.35,15th Ave NW & NW Market St,Rainier Ave S via S Alaska St
+Truck,19,25.519036,-22.106299,07:30,Rush Hour,0,0,Route A,9.1,13.65,Beacon Ave S & S Spokane St,4th Ave S via Airport Way
+LMV,15,56.987443,-110.149838,18:00,Moderate,0,0,Route B,3.2,3.2,Rainier Ave S & S Genesee St,Aurora Ave via N 85th St
+LMV,25,72.077345,15.679642,08:30,Rush Hour,1,1,Route D,4.17,6.25,Aurora Ave N & N 45th St,Roosevelt Way NE via NE 65th St
+Car,24,72.077345,15.679642,07:30,Rush Hour,0,1,Route B,8.3,12.45,Aurora Ave N & N 45th St,15th Ave NW via NW 85th St
+Bike,24,-12.883411,151.293068,07:30,Rush Hour,0,1,Route A,3.37,5.05,15th Ave NW & NW Market St,Broadway via E John St
+Truck,15,-64.683673,130.144935,12:00,Moderate,1,1,Route C,6.42,6.42,Aurora Ave N & N 45th St,Broadway via E John St
+LMV,10,56.484665,96.160107,21:00,Moderate,0,1,Route D,2.89,2.89,NE 45th St & Roosevelt Way NE,Broadway via E John St
+Bike,25,25.869146,71.611184,07:30,Rush Hour,0,0,Route B,6.2,9.3,Rainier Ave S & S Genesee St,I-5 via Olive Way
+Car,14,-29.2004885,-7.828904,18:30,Moderate,0,0,Route C,8.6,8.6,NE 45th St & Roosevelt Way NE,Elliott Ave via W Harrison St
+Drone,15,-6.3577545,175.616176,08:30,Moderate,0,0,Route D,7.23,7.23,I-5 & NE 130th St,Aurora Ave via N 85th St
+Truck,12,-12.883411,151.293068,08:00,Moderate,0,0,Route B,5.03,5.03,I-5 & NE 130th St,Aurora Ave via N 85th St
+Car,21,56.987443,-110.149838,08:30,Rush Hour,0,0,Route B,4.39,6.58,Beacon Ave S & S Spokane St,Beacon Ave via S Myrtle St
+Truck,23,-64.683673,130.144935,07:30,Rush Hour,0,0,Route D,9.79,14.68,Broadway & E Pine St,Broadway via E John St
+Bus,6,30.4490185,-120.636498,21:00,Light,0,0,Route D,4.08,4.08,Rainier Ave S & S Genesee St,4th Ave S via Airport Way
+Car,8,72.077345,15.679642,13:00,Moderate,1,1,Route D,2.71,2.71,Broadway & E Pine St,Beacon Ave via S Myrtle St
+Bike,19,-41.8370785,119.159765,09:00,Rush Hour,0,0,Route B,5.16,7.74,NE 45th St & Roosevelt Way NE,Beacon Ave via S Myrtle St
+Car,16,-6.3577545,175.616176,18:30,Rush Hour,0,0,Route D,7.97,11.96,Elliott Ave W & W Mercer Pl,Rainier Ave S via S Alaska St
+Car,17,-64.683673,130.144935,18:30,Rush Hour,0,0,Route B,9.2,13.8,Elliott Ave W & W Mercer Pl,Rainier Ave S via S Alaska St
+Bike,15,59.4479915,-102.610317,12:00,Moderate,0,0,Route D,3.48,3.48,Broadway & E Pine St,Broadway via E John St
+Car,25,-64.683673,130.144935,18:00,Rush Hour,1,1,Route D,3.98,5.97,I-5 & NE 130th St,Broadway via E John St
+LMV,24,72.077345,15.679642,08:00,Rush Hour,0,0,Route D,4.58,6.87,Beacon Ave S & S Spokane St,15th Ave NW via NW 85th St
+Car,15,72.077345,15.679642,18:00,Moderate,1,1,Route A,1.33,1.33,Rainier Ave S & S Genesee St,Elliott Ave via W Harrison St
+Car,10,-81.530735,51.187215,13:00,Moderate,0,0,Route B,7.81,7.81,NE 45th St & Roosevelt Way NE,Broadway via E John St
+Bike,8,30.4490185,-120.636498,23:00,Moderate,1,0,Route C,4.79,4.79,Aurora Ave N & N 45th St,Dexter Ave N via N 40th St
+LMV,22,-30.916472,98.091011,09:00,Rush Hour,0,0,Route D,4.86,7.29,Elliott Ave W & W Mercer Pl,Rainier Ave S via S Alaska St
+Truck,23,72.077345,15.679642,18:00,Rush Hour,0,0,Route A,5.0,7.5,Broadway & E Pine St,Beacon Ave via S Myrtle St
+Bike,12,66.1102565,21.490638,17:00,Moderate,0,0,Route B,3.66,3.66,Dexter Ave N & Aloha St,Rainier Ave S via S Alaska St
+Bike,22,-81.530735,51.187215,07:30,Rush Hour,0,0,Route C,3.61,5.42,Aurora Ave N & N 45th St,15th Ave NW via NW 85th St
+Truck,17,59.4479915,-102.610317,08:30,Rush Hour,0,0,Route C,6.72,10.08,Elliott Ave W & W Mercer Pl,4th Ave S via Airport Way
+Bus,16,59.4479915,-102.610317,17:30,Rush Hour,0,0,Route C,1.04,1.56,Broadway & E Pine St,Beacon Ave via S Myrtle St
+LMV,13,-89.0449525,-114.278016,13:00,Moderate,0,0,Route B,1.31,1.31,Aurora Ave N & N 45th St,15th Ave NW via NW 85th St
+Car,19,25.519036,-22.106299,17:00,Rush Hour,0,0,Route B,4.66,6.99,Broadway & E Pine St,Dexter Ave N via N 40th St
+Car,3,-41.8370785,119.159765,22:00,Light,0,0,Route B,4.36,4.36,NE 45th St & Roosevelt Way NE,15th Ave NW via NW 85th St
+Bike,14,-30.916472,98.091011,08:00,Moderate,0,0,Route D,6.45,6.45,Beacon Ave S & S Spokane St,Dexter Ave N via N 40th St
+Bike,16,-64.859986,52.881066,17:30,Rush Hour,1,0,Route C,6.03,9.04,I-5 & NE 130th St,15th Ave NW via NW 85th St
+Car,17,85.8382935,-163.204008,08:30,Rush Hour,0,0,Route A,8.19,12.29,Dexter Ave N & Aloha St,Elliott Ave via W Harrison St
+Bike,14,45.904054,-66.356341,08:00,Moderate,0,0,Route C,1.11,1.11,NE 45th St & Roosevelt Way NE,4th Ave S via Airport Way
+LMV,13,25.519036,-22.106299,18:30,Moderate,0,0,Route C,2.41,2.41,Elliott Ave W & W Mercer Pl,Dexter Ave N via N 40th St
+Car,22,-29.2004885,-7.828904,08:00,Rush Hour,0,0,Route B,5.56,8.34,I-5 & NE 130th St,Roosevelt Way NE via NE 65th St
+LMV,10,59.4479915,-102.610317,12:00,Moderate,0,0,Route D,9.99,9.99,15th Ave NW & NW Market St,4th Ave S via Airport Way
+Bike,18,66.1102565,21.490638,07:30,Rush Hour,0,0,Route B,1.48,2.22,Beacon Ave S & S Spokane St,Rainier Ave S via S Alaska St
+LMV,21,56.484665,96.160107,18:30,Rush Hour,0,0,Route C,3.8,5.7,Elliott Ave W & W Mercer Pl,Aurora Ave via N 85th St
+Car,14,-64.859986,52.881066,18:30,Moderate,0,0,Route B,7.67,7.67,Aurora Ave N & N 45th St,I-5 via Olive Way
+Drone,16,-81.530735,51.187215,08:00,Rush Hour,0,0,Route C,5.48,8.22,Rainier Ave S & S Genesee St,Beacon Ave via S Myrtle St
+Bus,23,-64.859986,52.881066,07:30,Rush Hour,0,0,Route B,3.25,4.88,I-5 & NE 130th St,I-5 via Olive Way
+Bike,19,-29.2004885,-7.828904,08:00,Rush Hour,1,1,Route B,6.28,9.42,Dexter Ave N & Aloha St,4th Ave S via Airport Way
+Bike,15,72.077345,15.679642,13:00,Moderate,0,0,Route A,4.42,4.42,Rainier Ave S & S Genesee St,Dexter Ave N via N 40th St
+Drone,25,56.987443,-110.149838,17:00,Rush Hour,0,0,Route C,6.1,9.15,Aurora Ave N & N 45th St,I-5 via Olive Way
+Car,13,85.8382935,-163.204008,18:00,Moderate,0,0,Route C,4.93,4.93,Dexter Ave N & Aloha St,Roosevelt Way NE via NE 65th St
+Car,20,56.987443,-110.149838,17:30,Rush Hour,0,0,Route C,4.7,7.05,Dexter Ave N & Aloha St,I-5 via Olive Way
+Drone,24,-30.916472,98.091011,09:00,Rush Hour,0,0,Route B,2.23,3.34,I-5 & NE 130th St,Beacon Ave via S Myrtle St
+Car,8,56.484665,96.160107,13:00,Moderate,0,0,Route C,6.05,6.05,Rainier Ave S & S Genesee St,Rainier Ave S via S Alaska St
+Bus,11,56.484665,96.160107,12:00,Moderate,1,0,Route A,1.94,1.94,Broadway & E Pine St,Elliott Ave via W Harrison St
+Car,19,-81.530735,51.187215,17:00,Rush Hour,0,0,Route B,9.62,14.43,15th Ave NW & NW Market St,I-5 via Olive Way
+Car,7,25.519036,-22.106299,23:00,Light,0,0,Route C,5.87,5.87,15th Ave NW & NW Market St,Beacon Ave via S Myrtle St
+Bus,14,-29.2004885,-7.828904,12:00,Moderate,0,0,Route D,5.33,5.33,Rainier Ave S & S Genesee St,Aurora Ave via N 85th St
+Bike,25,72.077345,15.679642,18:00,Rush Hour,0,0,Route C,6.35,9.52,4th Ave & S Jackson St,Dexter Ave N via N 40th St
+Car,20,85.8382935,-163.204008,09:00,Rush Hour,1,0,Route B,1.92,2.88,Dexter Ave N & Aloha St,Roosevelt Way NE via NE 65th St
