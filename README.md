@@ -62,7 +62,7 @@ streamlit run smart_traffic_app.py
 ---
 ![dashboard](dashboard.png)
 
-### Interactive Geospatial Analysis with Vehicle Count in each location
+### Interactive Geospatial Analysis for Seattle with Vehicle Count in each location
 ![dashboard](InteractiveGIS.png)
 ### Location: Seattle, Washington
 ## 📂 Folder Structure
