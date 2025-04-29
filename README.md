@@ -11,7 +11,7 @@
 4. Rerouting Agent -> Suggests/ Recommends Alternative paths
 5. Dynamic toll adjuster Agent -> Dynamically adjusts tolls based on traffic levels in that location
 ---
-![TrafAIQ Workflow](SysteArc.png)
+![TrafAIQ Workflow](Workflow.png)
 ## 🧠 Features
 
 - **Multi-Agent AI System** for traffic signals, routing, congestion detection, toll pricing, and drone monitoring
