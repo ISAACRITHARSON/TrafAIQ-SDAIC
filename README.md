@@ -11,7 +11,7 @@
 4. Rerouting Agent -> Suggests/ Recommends Alternative paths
 5. Dynamic toll adjuster Agent -> Dynamically adjusts tolls based on traffic levels in that location
 ---
-![TrafAIQ Workflow](Workflow.png)
+![TrafAIQ Workflow](SystemArc.png)
 
 ## 🧠 Features
 
