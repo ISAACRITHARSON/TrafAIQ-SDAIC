@@ -12,7 +12,7 @@
 5. Dynamic toll adjuster Agent -> Dynamically adjusts tolls based on traffic levels in that location
 ---
 ![TrafAIQ Workflow](SysteArc.png)
-
+<img src="SysteArc.png" width="900"/>
 ## 🧠 Features
 
 - **Multi-Agent AI System** for traffic signals, routing, congestion detection, toll pricing, and drone monitoring
