@@ -6,7 +6,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import json
 from datetime import datetime
-import osv
+import os
 import openai
 from dotenv import load_dotenv
 
