@@ -102,7 +102,7 @@ trafaiq/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Made with ❤️ by ISAAC RITHARSON P
 Let’s build smarter cities together.
