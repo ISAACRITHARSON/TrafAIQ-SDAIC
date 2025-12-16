@@ -64,7 +64,7 @@ streamlit run smart_traffic_app.py
 ### Interactive Geospatial Analysis for Seattle with Vehicle Count in each location
 ![dashboard](InteractiveGIS.png)
 ### Location: Seattle, Washington
-## 📂 Folder Structure
+## Folder Structure
 ```text
 trafaiq/
 ├── smart_traffic_app.py     # Main Streamlit App
@@ -85,7 +85,7 @@ trafaiq/
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Integration with SUMO or CityFlow for real-time traffic simulation
 - Edge deployment on Raspberry Pi and IoT cameras
@@ -94,7 +94,7 @@ trafaiq/
 
 ---
 
-## ⚖️ Responsible AI Considerations
+## Responsible AI Considerations
 
 - Fairness in traffic signal decisions across locations
 - Manual override for human-in-the-loop safety
@@ -109,6 +109,6 @@ Let’s build smarter cities together.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
